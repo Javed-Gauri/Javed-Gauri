@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>🌱 I’m currently learning Front-end |  Core Java | Salesforce Admin
+# 💫 Hello I'm Javed Gauri
+<br>🌱 I’m Front-end Developer | Java and Salesforce Enthusiast 
 
 
 ## 🌐 Socials:
